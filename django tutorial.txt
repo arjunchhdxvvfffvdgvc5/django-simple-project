@@ -1,0 +1,7 @@
+C:\Users\mlm\AppData\Local\Programs\Python\Python310\Scripts
+cmd
+pip install django
+
+python manage.py startapp main
+
+py manage.py runserver
